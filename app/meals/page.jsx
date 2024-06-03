@@ -1,5 +1,3 @@
-"use client"
-
 import MealsGrid from '@/components/meals/meals-grid';
 import { getMeals } from '@/lib/meals';
 import Link from 'next/link';
